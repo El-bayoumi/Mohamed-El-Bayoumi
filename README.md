@@ -4,7 +4,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Egypt . I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like I gym and reading books. Slightly obsessed with watching football. You can find me on Twitter [@elbayoumi_10](https://twitter/follow/elbayoumi_10). 
+I'm a software developer based in Egypt . I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like I gym and reading books. Slightly obsessed with watching football. You can find me on Twitter [elbayoumi_10](https://twitter/follow/elbayoumi_10). 
 
 
 &nbsp;
